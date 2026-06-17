@@ -1,0 +1,22 @@
+{
+  "name": "UCSD 편입생 현실 가이드",
+  "short_name": "UCSD 가이드",
+  "description": "UCSD Business Econ 편입생을 위한 현실 가이드",
+  "start_url": "./ucsd_transfer_guide.html",
+  "display": "standalone",
+  "background_color": "#182B49",
+  "theme_color": "#182B49",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
